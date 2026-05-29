@@ -34,8 +34,7 @@ Java • Spring Boot • React.js • SQL • AWS • Docker • Git • GitHub 
 </p>
 
 ## 📫 Connect With Me
-
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: [Mannat Sharma](https://www.linkedin.com/in/mannat-sharma-1ab56132a)
 - GitHub: https://github.com/Mannat30
 
 ---
