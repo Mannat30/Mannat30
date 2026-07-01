@@ -1,6 +1,6 @@
 # Hi, I'm Mannat Sharma 
 
-🚀 Full Stack Developer passionate about building scalable web applications and AI-powered solutions.
+ Full Stack Developer passionate about building scalable web applications and AI-powered solutions.
 
 ## About Me
 
