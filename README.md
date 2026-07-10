@@ -5,7 +5,7 @@
 ## About Me
 
 - 🎓 B.Tech CSE Student
-- 💼 Infosys Springboard Internship 6.0 Intern
+ 
 - 🎖️ GSSoC 2026 Contributor
 - 🌱 Learning System Design, Cloud Computing, and Generative AI
 - 💻 Solving DSA problems regularly
