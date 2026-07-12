@@ -17,7 +17,6 @@ Java • Spring Boot • React.js • SQL • AWS • Docker • Git • GitHub 
 ## 🏆 Achievements
 
 - 🎖️ GSSoC 2026 Contributor
-- 💼 Infosys Springboard Internship 6.0
 - 🏅 Top 12% in GSSoC Leaderboard
 - 🌟 Open Source Enthusias
  ## 🏅 GSSoC 2026 Badges
