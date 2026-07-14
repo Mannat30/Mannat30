@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🎓 B.Tech CSE Student
+- B.Tech CSE Student
  
 - 🎖️ GSSoC 2026 Contributor
 - 🌱 Learning System Design, Cloud Computing, and Generative AI
