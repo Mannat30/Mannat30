@@ -2,7 +2,7 @@
 
  Full Stack Developer passionate about building scalable web applications and AI-powered solutions.
 
-## About Me
+# About Me
 
 - B.Tech CSE Student
  
