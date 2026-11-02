@@ -7,7 +7,7 @@
 
 # Hi, I'm Mannat Sharma 👋
 
-### Java Full Stack Developer | Backend Engineering | Generative AI
+### Java Full Stack Developer | Backend Engineering
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=8B9DFF&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems;Developing+full-stack+applications;Exploring+Generative+AI+and+LLM+integration;Learning+by+building+and+contributing" alt="Typing introduction" />
