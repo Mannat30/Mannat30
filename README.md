@@ -1,89 +1,259 @@
-# Hey there! I'm Mannat Sharma 👋
+ <div align="center">
+
+# Hey, I'm Mannat Sharma 👋
 
 ### Java Full Stack Developer | Backend Engineering | Generative AI
 
-I enjoy building scalable backend systems, developing full-stack applications, and exploring how Generative AI can solve real-world problems.
+*Turning ideas into scalable applications, one commit at a time.*
 
-🎓 B.Tech Computer Science & Engineering — Poornima University, Jaipur  
-📊 CGPA: 9.52  
-🌱 Currently strengthening DSA, System Design and Backend Engineering  
-💡 Interested in Java, Spring Boot, Microservices and Generative AI  
-🏆 GSSoC 2026 Contributor | Top 12% Leaderboard
+<br/>
+
+<a href="https://github.com/Mannat30">
+  <img src="https://img.shields.io/badge/GitHub-Mannat30-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Mannat30?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Projects-6C63FF?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="100%"/>
+
+</div>
+
+## 👩‍💻 About Me
+
+I'm a Computer Science undergraduate passionate about building reliable backend systems and meaningful full-stack applications.
+
+- 🎓 B.Tech CSE | Poornima University, Jaipur
+- 📚 CGPA: **9.52**
+- ☕ Focused on **Java, Spring Boot and Full Stack Development**
+- 🏗️ Exploring Microservices, System Design and scalable architectures
+- 🤖 Interested in Generative AI, LLMs and AI-powered applications
+- 🌱 Currently strengthening DSA and problem-solving skills
+- 🏆 GSSoC 2026 Contributor | Top 12% on the leaderboard
+
+**My goal:** Become a skilled Software Engineer who builds scalable, practical and impactful real-world applications.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technology Stack
 
-**Languages**
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,sql" />
+</p>
 
-**Backend Development**
+### Backend Development
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-**Frontend Development**
+### Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
-**Database & Tools**
+### Databases & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,postman,vscode,idea" />
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,aws" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-Learning-2563EB?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [E-Commerce Microservices](https://github.com/Mannat30/E-Commerce-Backend-MICROSERVICE) | Distributed backend architecture using Spring Boot and microservices |
-| [Payment Orchestration](https://github.com/Mannat30/PAYMENT-ORCHESTRATION-LAYER) | Java-based payment orchestration project |
-| [GenAI Chatbot RAG](https://github.com/Mannat30/genai-chatbot-rag) | Exploring Retrieval-Augmented Generation |
-| [AI Chatbot Integration](https://github.com/Mannat30/CHATBOT-WITH-AI-INTEGRATION) | LLM integration using Spring Boot and WebClient |
-| [Task Management](https://github.com/Mannat30/TASK-MANAGEMENT--FULL-STACK-PROJECT) | Full-stack task management application |
+A selection of projects where I'm applying my knowledge of backend engineering, full-stack development and AI integration.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Microservices
+
+A backend-focused e-commerce application exploring microservices architecture and distributed services.
+
+**Focus Areas:**
+- Spring Boot
+- Microservices
+- REST APIs
+- Service communication
+
+<a href="https://github.com/Mannat30/E-Commerce-Backend-MICROSERVICE">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 Payment Orchestration
+
+A Java-based project focused on payment orchestration and backend payment workflows.
+
+**Focus Areas:**
+- Java
+- Spring Boot
+- Backend Architecture
+- Payment Workflows
+
+<a href="https://github.com/Mannat30/PAYMENT-ORCHESTRATION-LAYER">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 GenAI Chatbot with RAG
+
+Exploring Retrieval-Augmented Generation to build context-aware AI applications.
+
+**Focus Areas:**
+- Generative AI
+- RAG
+- LLM Integration
+- Backend Development
+
+<a href="https://github.com/Mannat30/genai-chatbot-rag">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Chatbot Integration
+
+An AI-powered chatbot integration project exploring communication with language models through a Java backend.
+
+**Focus Areas:**
+- Spring Boot
+- WebClient
+- API Integration
+- LLMs
+
+<a href="https://github.com/Mannat30/CHATBOT-WITH-AI-INTEGRATION">View Repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Task Management System
+
+A full-stack task management application with authentication and task operations.
+
+**Focus Areas:**
+- Java
+- Spring Boot
+- JWT Authentication
+- MySQL
+- React
+
+<a href="https://github.com/Mannat30/TASK-MANAGEMENT--FULL-STACK-PROJECT">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Open Source Contributions
+
+Learning through collaboration, contributing to open-source projects and improving software development practices.
+
+**Focus Areas:**
+- Git & GitHub
+- Pull Requests
+- Issue Resolution
+- Collaborative Development
+
+<a href="https://github.com/Mannat30?tab=repositories">Explore Repositories →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 GSSoC 2026 Contributor
-- 📈 Ranked in the Top 12% of the GSSoC Leaderboard
-- 🌍 Actively exploring open-source contributions
+<div align="center">
+
+<a href="https://gssoc.girlscript.tech/">
+  <img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-FF8C42?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Mannat30">
+  <img src="https://img.shields.io/badge/Leaderboard-Top%2012%25-6C63FF?style=for-the-badge&logo=star&logoColor=white" />
+</a>
+
+</div>
+
+- 🥇 Selected as a GSSoC 2026 Contributor.
+- 📈 Achieved a position in the Top 12% of the GSSoC leaderboard.
+- 🌍 Actively developing my open-source experience.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mannat30&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannat30&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Mannat30?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Mannat30?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-My%20Interests-yellow?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Mannat30?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-Connect-blue?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mannat30&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
 
 ---
 
-## 🎯 Currently Focusing On
+## 🎯 What I'm Working Towards
 
-- Mastering Data Structures & Algorithms
-- Building scalable Java backend applications
-- Understanding Microservices and System Design
-- Exploring Generative AI and LLM integrations
-- Contributing to meaningful open-source projects
+- ☕ Deepening my Java and Spring Boot expertise.
+- 🧩 Solving DSA problems and mastering algorithmic patterns.
+- 🏗️ Learning scalable backend architecture and System Design.
+- 🤖 Exploring practical Generative AI applications.
+- 🌍 Making meaningful open-source contributions.
+- 🚀 Preparing to build production-quality software.
 
 ---
 
 ## 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mannat30-181717?style=for-the-badge&logo=github)](https://github.com/Mannat30)
+<div align="center">
 
-⭐ *Building, learning, contributing — one commit at a time.*
+<a href="https://github.com/Mannat30">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*Open to learning, collaboration, open-source contributions and meaningful opportunities.*
+
+<br/>
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+
+</div>
