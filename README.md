@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Mannat Sharma
+#  Hey, I'm Mannat Sharma
 
 ### Java Full Stack Developer | Backend Engineering | Generative AI
 
