@@ -2,7 +2,7 @@
 
 #  Hey, I'm Mannat Sharma
 
-## Java Full Stack Developer | Backend Engineering | Generative AI
+# Java Full Stack Developer | Backend Engineering | Generative AI
 
 *Building scalable applications • Exploring AI • Contributing to Open Source*
 
