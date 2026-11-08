@@ -4,7 +4,7 @@
 
 # Java Full Stack Developer | Backend Engineering | Generative AI
 
-*Building scalable applications • Exploring AI • Contributing to Open Source*
+*Building scalable applications •Exploring AI • Contributing to Open Source*
 
 <br/>
 
